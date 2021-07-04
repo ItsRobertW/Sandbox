@@ -1,3 +1,2 @@
-# test
-
-This is an update to the readme file
+# Sandbox
+This is my public sandbox where I save my work in progress, as well as finished compositions
